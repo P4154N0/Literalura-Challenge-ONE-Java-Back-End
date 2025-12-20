@@ -135,7 +135,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/literalura.git
+git clone [https://github.com/P4154N0/Literalura-Challenge-ONE-Java-Back-End.git](https://github.com/P4154N0/Literalura-Challenge-ONE-Java-Back-End.git)
 
 # Entrar al directorio
 cd literalura
